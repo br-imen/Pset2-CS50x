@@ -4,8 +4,7 @@
 
 - caesar.c :
     - My task to implement a program that encrypts messages using Caesar’s cipher, per the below.
-    - It's a program that enables to encrypt messages using Caesar’s cipher. At the time the user executes the program, they should decide, by providing a command-line argument, what the key should be in the secret message they’ll provide at runtime. We shouldn’t necessarily assume that the user’s key is going to be a number; though you may assume that, if it is a number, it will be a positive integer.
-
+    - It's a program that enables to encrypt messages using Caesar’s cipher. At the time the user executes the program, they should decide, by providing a command-line argument, what the key should be in the secret message they’ll provide at runtime. 
 ```
 $ ./caesar 13
 plaintext:  HELLO
